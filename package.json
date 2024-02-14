@@ -9,7 +9,7 @@
   "author": "Puick",
   "license": "ISC",
   "dependencies": {
-    "@discordjs/rest": "^1.4.0",
+    "@discordjs/rest": "^1.7.1",
     "discord.js": "^14.7.1",
     "fs": "^0.0.1-security",
     "ms": "^2.1.3"
